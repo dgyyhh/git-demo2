@@ -10,5 +10,7 @@ public class test {
         System.out.println("aaaaaaaa");
         System.out.println("push");
         System.out.println("push");
+        System.out.println("push");
+        System.out.println("push");
     }
 }
